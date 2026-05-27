@@ -1,4 +1,4 @@
 # Sung
 First repository
 <br>
-Author - Aarush Sharma
+Author - Aarush (apna college)
